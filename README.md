@@ -21,7 +21,7 @@ LoveXXzhoudedi是一款Typecho邮件通知类插件这个插件专门为了Typec
 >![用户登入页点击忘记后收到的邮件](https://images.gitee.com/uploads/images/2021/0522/182922_b7dae14a_8758841.jpeg "IMG_20210522_181447.jpg")
 ## 安装方法
 
-> 1. 至[LoveXXzhoudedi](https://gitee.com/LinkXiaoZhou/LoveXXzhoudedi)中下载最新版本插件；
+> 1. 至[LoveXXzhoudedi](https://github.com/zhoudedi/LoveXXzhoudedi)中下载最新版本插件；
 > 2. 将下载的压缩包进行解压并上传至`Typecho`插件目录中，注意目录名称更改为`LoveXXzhoudedi`；
 > 3. 后台激活插件；
 > 4. 根据自己的实际情况选择邮件发送接口方式；
