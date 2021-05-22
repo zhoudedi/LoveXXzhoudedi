@@ -74,6 +74,6 @@ author.html内变量与approved.html内变量一致。
 > 用户发布祝福后会收到邮件给用户而不在是发给作者，这样起到邮箱通知提示用户方便用户想起自己博客，降低被遗忘。
 
 ### 2021.05.20
-> 本插件由[[lovexiaozhou](https://gitee.com/LinkXiaoZhou/lovexiaozhou)]美化更改而得[[LoveXXzhoudedi](https://gitee.com/LinkXiaoZhou/LoveXXzhoudedi)]
+> 本插件由[[lovexiaozhou](https://github.com/zhoudedi/lovexiaozhou)]美化更改而得[[LoveXXzhoudedi](https://github.com/zhoudedi/LoveXXzhoudedi)]
 
 > 增加用户发布祝福、祝福审核通过、祝福被回复、忘记密码功能（用户发布祝福、祝福审核通过、祝福被回复、提交忘记密码后会自动发送邮件通知用户）
